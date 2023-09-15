@@ -1,0 +1,18 @@
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+  :root{
+    background-color: aquamarine;
+}
+.side_logo img{
+    height: 30px;
+}
+.side_logo{
+    display: flex;
+    gap: 10px;
+    font-weight: 900;
+    align-items:center;
+    font-style: Roboto;
+}
+p{
+    margin: 0px;
+}
